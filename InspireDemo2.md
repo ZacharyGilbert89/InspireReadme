@@ -16,6 +16,7 @@ sudo python3 support.py
 ```
 ## Launching
 ### BS Launch Commands
+
 New Terminal Window
 ```
 cd ~/srsran-control/enb
