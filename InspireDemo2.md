@@ -1,3 +1,8 @@
+<a href="https://airanaculus.com" target="_self" itemprop="url">
+									<img decoding="async" width="321" height="60" style ="background: black" alt="AiRANACULUS" itemprop="image" data-srcset="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png 321w, https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb-300x56.png 300w" title="AiRANACULUS" data-src="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png" data-sizes="(max-width: 321px) 100vw, 321px" class="pp-photo-img wp-image-169 ls-is-cached lazyloaded" src="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png" sizes="(max-width: 321px) 100vw, 321px" srcset="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png 321w, https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb-300x56.png 300w"><noscript><img decoding="async" width="321" height="60" class="pp-photo-img wp-image-169" src="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png" alt="AiRANACULUS" itemprop="image" srcset="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png 321w, https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb-300x56.png 300w" sizes="(max-width: 321px) 100vw, 321px" title="AiRANACULUS"  /></noscript>
+					<div class="pp-overlay-bg"></div>
+													</a>
+
 # Inspire Video Demo 2
 
 This guide provides how to setup the Base Station (BS) and User Equipment (UE) for the Inspire Video Demo II. 
