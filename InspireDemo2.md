@@ -9,7 +9,7 @@ This guide provides how to setup the Base Station (BS) and User Equipment (UE) f
 
 ---
 # **Table of Contents**
-\{{TOC}}
+{{TOC}}
 ---
 # 1. Setup <a name = "Setup"></a>
 ---
