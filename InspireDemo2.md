@@ -45,7 +45,7 @@ sudo python3 support.py
 ---
 #### 2.1 Base Station Launch Commands
 
-**In a New Terminal Window**
+##### **In a New Terminal Window**
 ##### Commands:
 ```
 cd ~/srsran-control/enb
@@ -54,7 +54,7 @@ sudo python3 launch.py
 ---
 #### 2.2 User Equipment Launch Commands
 
-**In a New Terminal Window**
+## **In a New Terminal Window**
 
 ##### Commands:
 ```
@@ -66,7 +66,7 @@ sudo python3 launch.py
 ---
 #### 3.1 Base Station Host Commands
 
-**In a New Terminal Window**
+##### **In a New Terminal Window**
 ##### Commands:
 
 ```
@@ -76,7 +76,7 @@ bash video1-server.sh
 ---
 #### 3.2 Video Receive (User Equipment)
 
-**In a New Terminal Window**
+##### **In a New Terminal Window**
 ##### Commands:
 
 ```
@@ -89,7 +89,7 @@ bash {video-file.sh}
 ---
 #### 4.1 TC Set-up Commands
 
-**In a New Terminal Window**
+##### **In a New Terminal Window**
 
 ```
 # Access using BS
