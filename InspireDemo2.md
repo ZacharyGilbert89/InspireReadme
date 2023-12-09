@@ -9,27 +9,27 @@ This guide provides how to setup the Base Station (BS) and User Equipment (UE) f
 
 ---
 # **Table of Contents**
-{{TOC}}
+
 ---
-# 1. Setup <a name = "Setup"></a>
+# 1. Setup
 ---
-### 1.1 Base Station Setup <a name = "Setup1.2"></a>
+### 1.1 Base Station Setup
 #### Commands:
 ```
 cd ~/srsran-control/enb
 sudo python3 support.py
 ```
 ---
-### 1.2 User Equipment Setup <a name = "Setup1.3"></a>
+### 1.2 User Equipment Setup
 #### Commands:
 ```
 cd ~/srsran-control/ue
 sudo python3 support.py
 ```
 ---
-# 2. Launching <a name = "Launching"></a>
+# 2. Launching
 ---
-### 2.1 Base Station Launch Commands<a name = "BaseStationLaunch"></a>
+### 2.1 Base Station Launch Commands
 
 **In a New Terminal Window**
 #### Commands:
@@ -38,7 +38,7 @@ cd ~/srsran-control/enb
 sudo python3 launch.py
 ```
 ---
-### 2.2 User Equipment Launch Commands<a name = "UserEquipmentLaunch"></a>
+### 2.2 User Equipment Launch Commands
 
 **In a New Terminal Window**
 
@@ -48,9 +48,9 @@ cd ~/srsran-control/ue
 sudo python3 launch.py
 ```
 ---
-# 3 Video Hosting (Base Station)<a name = "VideoHosting"></a>
+# 3 Video Hosting (Base Station)
 ---
-### 3.1 Base Station Host Commands<a name = "BaseStationVideoCommands"></a>
+### 3.1 Base Station Host Commands
 
 **In a New Terminal Window**
 #### Commands:
@@ -60,7 +60,7 @@ cd ~/inspire/docker-testbed/local/resources/
 bash video1-server.sh
 ```
 ---
-### 3.2 Video Receive (User Equipment)<a name = "UserEquipmentVideoCommands"></a>
+### 3.2 Video Receive (User Equipment)
 
 **In a New Terminal Window**
 #### Commands:
@@ -71,9 +71,9 @@ cd ~/srsran-control/video/
 bash {video-file.sh}
 ```
 ---
-# 4. Prioritization (Base Station)<a name = "Prioritization"></a>
+# 4. Prioritization (Base Station)
 ---
-### 4.1 TC Set-up Commands <a name = "TCCommands"></a>
+### 4.1 TC Set-up Commands
 --
 **In a New Terminal Window**
 
@@ -83,14 +83,14 @@ cd ~/srsran-control/enb/
 bash tc-setup-commands.sh
 ```
 ---
-### 4.2 Add Mbps To TC <a name = "BandwidthCommands"></a>
+### 4.2 Add Mbps To TC
 ```
 cd ~/srsran-control/enb/
 bash tc-setup-commands.sh {Mbytes}
 ```
 #### Where {Mbytes} refers to max transfer rate (Mbps)
 ---
-# 5. Interference <a name = "Interference"></a>
+# 5. Interference
 ---
 ### Access using Silver 3
 ```
