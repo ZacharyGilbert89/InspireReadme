@@ -8,61 +8,75 @@
 This guide provides how to setup the Base Station (BS) and User Equipment (UE) for the Inspire Video Demo II. 
 
 ---
-# **Table of Contents**
+## **Table of Contents**
+   * [1. Setup ](#1-setup)
+        * [1.1 Base Station Setup](#11-base-station-setup)
+        * [1.2 User Equipment Setup](#12-user-equipment-setup)
+   * [2. Launching ](#2-launching)
+        * [2.1 Base Station Launch Commands](#21-base-station-launch-commands)
+        * [2.2 User Equipment Launch Commands](#22-user-equipment-launch-commands)
+   * [3 Video Hosting (Base Station)](#3-video-hosting-base-station)
+        * [3.1 Base Station Host Commands](#31-base-station-host-commands)
+        * [3.2 Video Receive (User Equipment)](#32-video-receive-user-equipment)
+   * [4. Prioritization (Base Station)](#4-prioritization-base-station)
+        * [4.1 TC Set-up Commands](#41-tc-set-up-commands)
+        * [4.2 Rate Control](#42-rate-control)
+   * [5. Interference](#5-interference)
+        * [Access using Silver 3](#access-using-silver-3)
 ---
-# 1. Setup <a name = "Setup"></a>
+## 1. Setup 
 ---
-### 1.1 Base Station Setup <a name = "Setup1.2"></a>
-#### Commands:
+#### 1.1 Base Station Setup
+##### Commands:
 ```
 cd ~/srsran-control/enb
 sudo python3 support.py
 ```
 ---
-### 1.2 User Equipment Setup <a name = "Setup1.3"></a>
-#### Commands:
+#### 1.2 User Equipment Setup
+##### Commands:
 ```
 cd ~/srsran-control/ue
 sudo python3 support.py
 ```
 ---
-# 2. Launching <a name = "Launching"></a>
+## 2. Launching 
 ---
-### 2.1 Base Station Launch Commands<a name = "BaseStationLaunch"></a>
+#### 2.1 Base Station Launch Commands
 
 **In a New Terminal Window**
-#### Commands:
+##### Commands:
 ```
 cd ~/srsran-control/enb
 sudo python3 launch.py
 ```
 ---
-### 2.2 User Equipment Launch Commands<a name = "UserEquipmentLaunch"></a>
+#### 2.2 User Equipment Launch Commands
 
 **In a New Terminal Window**
 
-#### Commands:
+##### Commands:
 ```
 cd ~/srsran-control/ue
 sudo python3 launch.py
 ```
 ---
-# 3 Video Hosting (Base Station)<a name = "VideoHosting"></a>
+## 3 Video Hosting (Base Station)
 ---
-### 3.1 Base Station Host Commands<a name = "BaseStationVideoCommands"></a>
+#### 3.1 Base Station Host Commands
 
 **In a New Terminal Window**
-#### Commands:
+##### Commands:
 
 ```
 cd ~/inspire/docker-testbed/local/resources/
 bash video1-server.sh
 ```
 ---
-### 3.2 Video Receive (User Equipment)<a name = "UserEquipmentVideoCommands"></a>
+#### 3.2 Video Receive (User Equipment)
 
 **In a New Terminal Window**
-#### Commands:
+##### Commands:
 
 ```
 cd ~/srsran-control/video/
@@ -70,9 +84,9 @@ cd ~/srsran-control/video/
 bash {video-file.sh}
 ```
 ---
-# 4. Prioritization (Base Station)<a name = "Prioritization"></a>
+## 4. Prioritization (Base Station)
 ---
-### 4.1 TC Set-up Commands <a name = "TCCommands"></a>
+#### 4.1 TC Set-up Commands
 --
 **In a New Terminal Window**
 
@@ -82,18 +96,17 @@ cd ~/srsran-control/enb/
 bash tc-setup-commands.sh
 ```
 ---
-### 4.2 Add Mbps To TC <a name = "BandwidthCommands"></a>
+#### 4.2 Rate Control
 ```
 cd ~/srsran-control/enb/
 bash tc-setup-commands.sh {Mbytes}
 ```
-#### Where {Mbytes} refers to max transfer rate (Mbps)
+##### Where {Mbytes} refers to max transfer rate (Mbps)
 ---
-# 5. Interference <a name = "Interference"></a>
+## 5. Interference
 ---
-### Access using Silver 3
+#### Access using Silver 3
 ```
 #TBD
 ```
 ---
-<div style="font-size: 5px;">Authors: Zach Gilbert, Keegan Chhay</div> 
