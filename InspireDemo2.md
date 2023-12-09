@@ -88,7 +88,7 @@ bash {video-file.sh}
 ## 4. Prioritization (Base Station)
 ---
 #### 4.1 TC Set-up Commands
---
+
 **In a New Terminal Window**
 
 ```
