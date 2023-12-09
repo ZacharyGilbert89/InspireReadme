@@ -54,7 +54,7 @@ sudo python3 launch.py
 ---
 #### 2.2 User Equipment Launch Commands
 
-## **In a New Terminal Window**
+##### **In a New Terminal Window**
 
 ##### Commands:
 ```
