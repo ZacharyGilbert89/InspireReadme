@@ -109,4 +109,5 @@ bash tc-setup-commands.sh {Mbytes}
 #TBD
 ```
 ---
-#### <h1 style= "font-size: x-small;">Authors: Zach Gilbert, Keegan Chhay</h1>
+<h1 style= "font-size: 10px;">Authors: Zach Gilbert, Keegan Chhay</h1>
+---
