@@ -98,6 +98,7 @@ bash tc-setup-commands.sh
 ```
 ---
 #### 4.2 Rate Control
+##### Specific Rate
 ```
 cd ~/srsran-control/enb/
 bash tc-setup-commands.sh {Mbytes}
