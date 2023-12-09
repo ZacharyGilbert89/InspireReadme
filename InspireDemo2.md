@@ -25,6 +25,7 @@ This guide provides how to setup the Base Station (BS) and User Equipment (UE) f
         * [Access using Silver 3](#access-using-silver-3)
 ---
 ## 1. Setup 
+##### Note: The UE and BS are on seperate machines.
 ---
 #### 1.1 Base Station Setup
 ##### Commands:
