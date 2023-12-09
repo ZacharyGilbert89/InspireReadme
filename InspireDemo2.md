@@ -4,19 +4,19 @@ This guide provides how to setup the Base Station (BS) and User Equipment (UE) f
 
 ---
 # **Table of Contents**
-1. [Setup](#Setup)
-    1.2 [Base Station Setup](#Setup1.2)
-    1.3 [User Equipment Setup](#Setup1.3)
-2. [Launching](#Launching)
-    2.1 [Base Station Launch Commands](#BaseStationLaunch)
-    2.2 [User Equipment Launch Commands](#UserEquipmentLaunch)
-3. [Video Hosting](#VideoHosting)
-    3.1 [Base Station Commands](#BaseStationVideoCommands)
-    3.2 [User Equipment Commands](#UserEquipmentVideoCommands)
-4. [Prioritization](#Prioritization)
-    4.1 [Traffic Control](#TCCommands)
-    4.2 [Traffic Control Bandwidth](#BandwidthCommands)
-5. [Inteference](#Interference)
+1. [Setup](#Setup)\
+    1.2 [Base Station Setup](#Setup1.2)\
+    1.3 [User Equipment Setup](#Setup1.3)\
+2. [Launching](#Launching)\
+    2.1 [Base Station Launch Commands](#BaseStationLaunch)\
+    2.2 [User Equipment Launch Commands](#UserEquipmentLaunch)\
+3. [Video Hosting](#VideoHosting)\
+    3.1 [Base Station Commands](#BaseStationVideoCommands)\
+    3.2 [User Equipment Commands](#UserEquipmentVideoCommands)\
+4. [Prioritization](#Prioritization)\
+    4.1 [Traffic Control](#TCCommands)\
+    4.2 [Traffic Control Bandwidth](#BandwidthCommands)\
+5. [Inteference](#Interference)\
 ---
 # 1. Setup <a name = "Setup"></a>
 ---
