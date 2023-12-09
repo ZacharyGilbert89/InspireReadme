@@ -15,7 +15,7 @@ This guide provides how to setup the Base Station (BS) and User Equipment (UE) f
    * [2. Launching ](#2-launching)
         * [2.1 Base Station Launch Commands](#21-base-station-launch-commands)
         * [2.2 User Equipment Launch Commands](#22-user-equipment-launch-commands)
-   * [3 Video Hosting (Base Station)](#3-video-hosting-base-station)
+   * [3 Video Hosting](#3-video-hosting)
         * [3.1 Base Station Host Commands](#31-base-station-host-commands)
         * [3.2 Video Receive (User Equipment)](#32-video-receive-user-equipment)
    * [4. Prioritization (Base Station)](#4-prioritization-base-station)
@@ -62,7 +62,7 @@ cd ~/srsran-control/ue
 sudo python3 launch.py
 ```
 ---
-## 3 Video Hosting (Base Station)
+## 3 Video Hosting
 ---
 #### 3.1 Base Station Host Commands
 
