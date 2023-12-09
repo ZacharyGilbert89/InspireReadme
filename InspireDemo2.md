@@ -3,14 +3,14 @@
 
 ---
 
-## Inspire Video Demo 2
+# Inspire Video Demo 2
 
 This guide provides how to setup the Base Station (BS) and User Equipment (UE) for the Inspire Video Demo II. 
 
 ---
-## **Table of Contents**
+# **Table of Contents**
 ---
-## 1. Setup <a name = "Setup"></a>
+# 1. Setup <a name = "Setup"></a>
 ---
 ### 1.1 Base Station Setup <a name = "Setup1.2"></a>
 #### Commands:
