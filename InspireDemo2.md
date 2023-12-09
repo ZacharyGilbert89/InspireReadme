@@ -90,7 +90,7 @@ bash {video-file.sh}
 #### 4.1 TC Set-up Commands
 
 ##### **In a New Terminal Window**
-
+##### Default Rate
 ```
 # Access using BS
 cd ~/srsran-control/enb/
