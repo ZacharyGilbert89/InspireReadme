@@ -1,6 +1,6 @@
-<img src = "https://media.licdn.com/dms/image/C4E1BAQEka6RGBlTITg/company-background_10000/0/1584440679467/airanaculus_cover?e=1702940400&v=beta&t=rkHIgjg41z48CINUjYR4CrjGFnzDhqTMHA0BZCz9c20" style = "width: 1000px; height: 250px;">
-
----
+<div style = "width: auto; height: auto; background: black;" 
+<a href="https://airanaculus.com" target="_self" itemprop="url"><img decoding="async" width="321" height="60" style ="background-color: black; margin: auto;" alt="AiRANACULUS" itemprop="image" data-srcset="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png 321w, https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb-300x56.png 300w" title="AiRANACULUS" data-src="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png" data-sizes="(max-width: 321px) 100vw, 321px" class="pp-photo-img wp-image-169 ls-is-cached lazyloaded" src="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png" sizes="(max-width: 321px) 100vw, 321px" srcset="https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb.png 321w, https://cv45a2.p3cdn1.secureserver.net/wp-content/uploads/2020/06/tgffb-300x56.png 300w">
+</a></div>
 
 # Inspire Video Demo 2
 
